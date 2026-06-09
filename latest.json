@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.8",
+    "notes":  "DeskMemory 0.1.8 release.",
+    "pub_date":  "2026-06-09T06:27:20Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMlQ2R0NQVUdSK1lnd3ZiVDlVa25kY1d4Q2thM0hxd2FhODBpWTVDRktkQ2ViT01GOXo1Q1lRUXlNUUNkK2NmNXMxbGlPMWpuNnJNMTkwcUFCZVJ4VTU2WTdVOE05RUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTg2NDQwCWZpbGU6RGVza01lbW9yeV8wLjEuOF94NjQtc2V0dXAuZXhlCjVQM0VFL2JNS045amV2ekJLRE1LUWpqb29zaHFQMG95bS84ZFQwbDRHNDFjSVI3ZkdBSnFaUTVVUitoZlRMTURYWWMzY3NzOUpGVFVPU001MkRYRUFBPT0K",
+                                             "url":  "https://cnkbwslacohtdwifwwht.supabase.co/storage/v1/object/public/deskmemory-releases/DeskMemory_0.1.8_x64-setup.exe"
+                                         }
+                  }
+}
